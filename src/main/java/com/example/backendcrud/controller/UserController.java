@@ -13,7 +13,8 @@ import java.util.List;
 
 
 /*
-Clase para controlar las operaciones del crud
+Clase para controlar las operaciones del crud,
+se añaden las mejoras de actualizar y crear
  */
 
 @CrossOrigin("*")
